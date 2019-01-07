@@ -1,3 +1,5 @@
+
+
 var panel = $('#quiz-area');
 
 $(document).on('click', '#start', function(e) {
